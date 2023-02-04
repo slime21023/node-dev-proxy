@@ -1,0 +1,17 @@
+{
+  "name": "node-dev-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "bin/cli.js",
+  "keywords": [
+    "api-proxy",
+    "proxy"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.18.1",
+    "sade": "^1.8.1",
+    "toml": "^3.0.0"
+  }
+}
